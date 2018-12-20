@@ -1,0 +1,17 @@
+npm init-to initaializw the  node app
+2) npm install --save cfonts (to install package) 
+        --save le hamro package.jason maa save agrdincha.
+
+                 1)make an app folder
+                                navigate to that folder on your terminal and type 
+                                         -npm init and press enter
+                2)after that a package.jason file is created.
+                                open package.jason file and in script{
+                                        "start":"node index.js"
+}
+
+SOME NPM CLI COMMENTS
+1)npm install--save package-ko-naam //installs the package locally on your project
+2)npm install -g package-ko-naam//installs the package globally in your machine
+3)npm uninstall --save package-ko-naam //!1
+4)npm uninstall --g package-ko-naam//!2

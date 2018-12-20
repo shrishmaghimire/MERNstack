@@ -1,0 +1,15 @@
+{
+  "name": "pagal_finder",
+  "version": "1.0.0",
+  "description": "An app to find pagals like sagun raj lage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Shrishma",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.3.0"
+  }
+}

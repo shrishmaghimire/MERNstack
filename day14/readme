@@ -1,0 +1,26 @@
+#REACT
+it is very powerful and is  comoponent based
+    -reusable components
+Virtual DOM // react compares real DOM with virtual dom and make the necessary changes done on 
+                virtuall dom into a real dom
+two way binding.
+react-native (mobile ko lalgi)
+
+#to install any package globally
+npm install -g package ko naam
+
+#to create app
+create-react-app first name
+
+//index,js baata sab garni kaam suru huncha.
+//reactDom.render le appvanni lai display gardeko ani root vanni thau aa chai 
+
+####JSX#####
+-javascript ma html tgs and halna pauni
+-arko component banauni cha vane chai arko file banauncham.
+-harek component maa parent tag euta matra huna parcha.
+   <div>
+    <div></div>
+    <div></div>
+   </div>
+
