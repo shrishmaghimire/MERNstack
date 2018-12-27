@@ -1,5 +1,7 @@
 import React from 'react';
 import Itglance from './Itglance'
+
+
 import logo from './logo.svg';
 import './App.css';
 
@@ -8,7 +10,8 @@ class Hello extends React.Component { //class component naame extends  ReactComp
     return (//returning html on render method
      <div>
        Hello world
-       <Itglance/> //include itglance class component
+       <Itglance/> 
+       {/* //include itglance class component */}
        </div>
     );
   }

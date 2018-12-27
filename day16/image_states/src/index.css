@@ -1,0 +1,32 @@
+.container{
+  position: relative;
+  background-color:grey;
+    height: 300px;
+    width: 250px;
+    border-radius: 10px;
+    position: relative;
+    top: 80px;
+    left:40%;
+}
+
+.button{
+  cursor: pointer;
+  border: none;
+background: whitesmoke;
+color:black ;
+font-weight: 100;
+padding: 20px;
+align-self: center;
+text-transform: uppercase;
+border-radius: 6px;
+display: inline-block;
+}
+.button:hover{
+  color: burlywood;
+font-weight: 700 !important;
+letter-spacing: 3px;
+background: none;
+-webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+-moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+transition: all 0.3s ease 0s;
+}

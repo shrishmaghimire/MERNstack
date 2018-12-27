@@ -1,0 +1,14 @@
+####STATE####
+-
+-state is a plain object thhatholds every data of a component
+-to acess satte in a component 'this.state' (it gives the object of state)
+-this.state -acess garni kaam garcha.
+
+###Set state
+
+-this.setstate - state maa vako data lai change garcha
+
+###PROPS###
+- to send data through child component dynamically
+
+####TASK###

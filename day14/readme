@@ -23,4 +23,29 @@ create-react-app first name
     <div></div>
     <div></div>
    </div>
+### two types of component##
+ #class comoponent
+    - class App extends React.component{
+        render()
+        {
+            return(
 
+
+            )
+        }
+    }
+    - logical operating eg.button click garda k kaam garni. UI maa k kaam garcja
+
+ #functionnal comoponent
+    -normal js ko function 
+    const App=()=>{
+        return (
+            <div>
+            Hlloo world
+            </div>
+        )
+    }
+    -function haru lai represent garcham.
+
+
+facebook ko homepage banauni
