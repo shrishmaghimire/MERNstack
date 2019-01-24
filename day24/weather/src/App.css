@@ -1,0 +1,38 @@
+.users{
+  padding: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.userlist{
+  margin: 20px;
+  background-color: grey;
+  padding: 10px;
+  cursor: pointer;
+}
+.userlist div:nth-child(1){
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.userlist div:nth-child(2){
+  color: whitesmoke;
+}
+
+.userdetails{
+  padding: 20px;
+ background-color: aliceblue;
+ color:grey;
+ height:100vh;
+ font-family: cursive;
+}
+ 
+ .userrdetails>div:nth-child(odd){
+ font-size:20px;
+ font-weight: bold;
+ 
+ }
+ 
+ .posts{
+ display: flex;
+ justify-content:center;
+ }
